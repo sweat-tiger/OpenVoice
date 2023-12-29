@@ -13,3 +13,5 @@ whisper-timestamped
 openai
 python-dotenv
 pypinyin
+cn2an
+pyaudio
